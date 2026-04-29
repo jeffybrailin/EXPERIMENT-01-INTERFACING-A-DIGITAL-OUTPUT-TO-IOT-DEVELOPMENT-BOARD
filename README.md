@@ -166,15 +166,15 @@ static void MX_GPIO_Init(void)
 
 ## OUTPUT
 ### Off State
-```
+
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/4c466671-3ac6-4bf9-b0f1-975b530745d9" />
 
-```
+
 ## On State
-```
+
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/c387a77e-9301-4fa7-a0ea-f51c44ab3ab1" />
 
-```
+
 ## Result
 
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
