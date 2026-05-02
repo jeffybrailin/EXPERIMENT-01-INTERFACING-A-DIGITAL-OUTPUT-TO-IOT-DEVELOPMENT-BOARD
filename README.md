@@ -1,6 +1,5 @@
 # EXPERIMENT 01 INTERFACING A DIGITAL OUTPUT TO IOT DEVELOPMENT-BOARD
 
-
 **NAME:** **JEFFY BRAILIN**
 
 **ROLL NO:** **212223040076**
@@ -179,11 +178,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif
 
-
-
-                               
- 
-
 ```
 
 ## OUTPUT
@@ -192,7 +186,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/4c466671-3ac6-4bf9-b0f1-975b530745d9" />
 
 
-## On State
+### On State
 
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/c387a77e-9301-4fa7-a0ea-f51c44ab3ab1" />
 
